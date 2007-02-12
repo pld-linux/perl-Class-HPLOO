@@ -6,7 +6,7 @@
 %define	pdir	Class
 %define	pnam	HPLOO
 Summary:	Declare classes basing on the popular class {...} style and ePod
-Summary(pl.UTF-8):   Deklarowanie klas opartych na popularnym stylu klas {...} i ePod
+Summary(pl.UTF-8):	Deklarowanie klas opartych na popularnym stylu klas {...} i ePod
 Name:		perl-Class-HPLOO
 Version:	0.23
 Release:	1
