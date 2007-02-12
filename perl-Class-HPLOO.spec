@@ -6,7 +6,7 @@
 %define	pdir	Class
 %define	pnam	HPLOO
 Summary:	Declare classes basing on the popular class {...} style and ePod
-Summary(pl):	Deklarowanie klas opartych na popularnym stylu klas {...} i ePod
+Summary(pl.UTF-8):   Deklarowanie klas opartych na popularnym stylu klas {...} i ePod
 Name:		perl-Class-HPLOO
 Version:	0.23
 Release:	1
@@ -25,9 +25,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This is the implemantation of OO-Classes for HPL. This brings an easy
 way to create PM classes, but with HPL resources/style.
 
-%description -l pl
+%description -l pl.UTF-8
 To jest implementacja klas zorientowanych obiektowo (OO-Classes) dla
-HPL-a. Udostêpnia ³atwy sposób tworzenia klas PM, ale w stylu zasobów
+HPL-a. UdostÄ™pnia Å‚atwy sposÃ³b tworzenia klas PM, ale w stylu zasobÃ³w
 HPL.
 
 %prep
