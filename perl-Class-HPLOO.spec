@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Class
 %define	pnam	HPLOO
 Summary:	Declare classes basing on the popular class {...} style and ePod
